@@ -1,5 +1,6 @@
 # air-jordan-sneaker-resale-analysis-EDA
  Air Jordan Sneaker Market Analysis
+ ![Screenshot__213547_www.kaggle.com](images/Screenshot_29-4-2026_213547_www.kaggle.com.jpeg)
 
 
  # Executive Summary

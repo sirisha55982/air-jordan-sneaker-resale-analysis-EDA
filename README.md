@@ -66,7 +66,7 @@ This project aims to answer the following key questions:
 
 # Profit Trend Over Time
 
-![Profit_Trend](images/Profit_Trend.png)
+![Profit_Trend](images/Profit_Trend(1).png)
 
 # Sales Channel Analysis
 

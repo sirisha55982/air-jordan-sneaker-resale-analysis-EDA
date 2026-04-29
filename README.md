@@ -1,6 +1,6 @@
 # air-jordan-sneaker-resale-analysis-EDA
  Air Jordan Sneaker Market Analysis
- ![Dataset-Cover](images/Dataset-Cover.jpg)
+ ![dataset-cover](images/dataset-cover.jpg)
 
 
  # Executive Summary

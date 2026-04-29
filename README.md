@@ -1,13 +1,13 @@
 # air-jordan-sneaker-resale-analysis-EDA
-📊 Air Jordan Sneaker Market Analysis
+ Air Jordan Sneaker Market Analysis
 
-📌 Executive Summary
+ # Executive Summary
 
 This project performs exploratory data analysis (EDA) on the Air Jordan sneaker resale market dataset to understand pricing patterns, profitability, and sales performance. The goal is to derive actionable insights that can support business decisions related to product selection, pricing strategies, and inventory optimization.
 
----
 
-📂 Dataset
+
+ # Dataset
 
 The dataset used in this project is sourced from Kaggle:
 
@@ -15,9 +15,8 @@ The dataset used in this project is sourced from Kaggle:
 
 The dataset contains information about sneaker models, retail and resale prices, sales channels, condition, and profit margins.
 
----
 
-🎯 Business Problem
+# Business Problem
 
 This project aims to answer the following key questions:
 
@@ -25,11 +24,10 @@ This project aims to answer the following key questions:
 - Which sales channels result in faster inventory turnover?
 - How do profit margins vary across different shoe models and over time?
 
----
 
-⚙️ Methodology
+# Methodology
 
-🧹 Data Cleaning
+# Data Cleaning
 
 - Verified dataset integrity
 - Checked and confirmed no duplicate records
@@ -37,21 +35,21 @@ This project aims to answer the following key questions:
 - Standardized column names for consistency
 - Saved the cleaned dataset
 
-📊 Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 - Analyzed categorical variables using value counts and count plots
 - Examined numerical distributions using histograms
 - Studied relationships between variables using scatter plots
 
-📈 Advanced Analysis
+ # Advanced Analysis
 
 - Performed correlation analysis to identify relationships between variables
 - Conducted time-based analysis (monthly and yearly trends)
 - Used groupby and pivot tables for comparative analysis
 
----
 
-🛠️ Tools & Skills Used
+
+# Tools & Skills Used
 
 - Python
 - Pandas
@@ -62,51 +60,49 @@ This project aims to answer the following key questions:
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 
----
 
-📊 Key Visualizations
 
-📈 Profit Trend Over Time
+# Key Visualizations
 
-"Profit Trend" (images/.png)
+# Profit Trend Over Time
 
-📊 Sales Channel Analysis
+![Profit_Trend](images/Profit_Trend.png)
 
-"Sales Channel" (images/sales_channel.png)
+# Sales Channel Analysis
 
-📉 Price Distribution
+![Sales_Channel](images/Sales_Channel.png)
 
-"Price Distribution" (images/price_distribution.png)
+# Price Distribution
 
----
+![Price_Distribution](images/Price_Distribution.png)
 
-📈 Results & Key Insights
+# Results & Key Insights
 
 - Certain shoe models consistently generate higher profit margins
 - Some sales channels demonstrate faster inventory turnover
 - A strong relationship exists between retail price and resale price
 - Profit margins vary over time, indicating market trends
 
----
 
-💡 Business Recommendations
+
+# Business Recommendations
 
 - Focus on high-profit sneaker models to maximize revenue
 - Prioritize sales channels with faster inventory turnover
 - Optimize pricing strategies based on resale market trends
 
----
 
-🚀 Next Steps
+
+ # Next Steps
 
 - Build a machine learning model for price prediction
 - Expand analysis with additional real-world datasets
 - Develop an interactive dashboard using Power BI or Tableau
 
----
 
-📌 Conclusion
+
+# Conclusion
 
 This project demonstrates how exploratory data analysis can be used to uncover meaningful insights from real-world data. The findings can support data-driven decision-making in pricing, inventory management, and product strategy within the sneaker resale market.
 
----
+

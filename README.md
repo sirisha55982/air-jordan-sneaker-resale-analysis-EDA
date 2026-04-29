@@ -64,17 +64,10 @@ This project aims to answer the following key questions:
 
 # Key Visualizations
 
-# Profit Trend Over Time
-
-![Profit_Trend](images/Profit_Trend(1).png)
-
 # Sales Channel Analysis
 
 ![Sales_Channel](images/Sales_Channel.png)
 
-# Price Distribution
-
-![Price_Distribution](images/Price_Distribution.png)
 
 # Results & Key Insights
 

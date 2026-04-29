@@ -66,6 +66,11 @@ This project aims to answer the following key questions:
 
 # Key Visualizations
 
+# profit trend over time
+ ![Screenshot__21417_github.com](images/Screenshot_29-4-2026_21417_github.com.jpeg)
+
+
+
 # Sales Channel Analysis
 
 ![Sales_Channel](images/Sales_Channel.png)
